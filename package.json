@@ -26,9 +26,5 @@
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "bugs": {
     "url": "https://github.com/AnBoyvan/goit-js-hw-11/issues"
-  },
-  "main": "index.js",
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  }
 }
